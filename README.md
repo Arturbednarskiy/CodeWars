@@ -7,13 +7,13 @@ Parts of the code are not interconnected and are responsible for a separate func
 2. luhn
 > Validate Credit Card Number
 ---
-4. remove_consecutive_duplicates
+3. remove_consecutive_duplicates
 > script removes each duplicate item
 ---
-6. rock_paper_scissors
+4. rock_paper_scissors
 > popular childhood game
 ---
-8. time_ranges
+5. time_ranges
 > algorithm can help determine the peak time in a restaurant
 ---
 ### you can open and test in any IDE convenient for you
